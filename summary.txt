@@ -1,0 +1,19 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+
+I chose to use Python as the language for this assignment as it is very readable while also having extensive third-party packages and an extensive standard library that allows for quick development while still being powerful.
+
+I choose Flask as my web framework due to its structure complexity allowing for you to build small and mid-sized applications quickly and with it being lightweight it won't affect performance.
+
+2. What are the Advantages and Disadvantages to your solution
+
+Advantages: Simplicity, Efficiency, Flexibility, Minimal Dependencies
+
+The stack I choose allows you to quickly build small and medium-sized applications at speed and with my solution mainly using the standard library there is a low chance of compatibility issues and makes the code very simple and readable for everyone.
+
+Disadvantages: In-memory storage, Scalability
+
+My solution isn't built for scale. This is a straightforward application right now which doesn't even involve persistence with using a database. Combining this with the stack I choose and the solution for my spend_points function it doesn't allow for scale or multiple users. Which in the long run would be considered tech debt
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+
+I think my favorite personal project so far was my Newegg Auto-Checkout Bot. This was my first time coding a full-stack application and not just a little script. The project started with me just wanting to learn, but then it taught me so much more than I could've imagined. It started with optimizing my code and checkout speed to beat competitors but then it went even further from being just a personal project, it eventually gained users and it was something I hadn't planned for so I had to learn about databases and scaling allowing for at least a 100 users at once. What started as a simple project grew to so much more than I could imagine and taught me much more than I could think
